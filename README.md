@@ -7,7 +7,7 @@ Click Add PacMan Button to add a new PacMan to the screen
 Click Start Game to begin PacMan's motion around the screen
 ##Road Map
 In the future I would love to have PacMan even more dynamic by looking up and down as well as having a feature that adds another PacMan when one collides with a border
-##Licensce
+
 MIT License
 
 Copyright (c) 2020 John Williams
